@@ -1,6 +1,6 @@
 # 📊 HR Analysis Dashboard
 
-## Dashboard Preview
+## Dashboard 
 
 <img width="1495" height="830" alt="HR_ANALYSIS_DASHBOARD" src="https://github.com/user-attachments/assets/6df12a9b-3b12-4ffa-8468-1a5d8cf6e0ba" />
 The HR Analysis Dashboard is an interactive Power BI project designed to analyze workforce demographics, employee attrition, job satisfaction, performance ratings, and education-based trends. The dashboard helps HR professionals and business leaders make data-driven decisions to improve employee retention and organizational performance.
